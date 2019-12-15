@@ -4,8 +4,8 @@
 <h1 stle="color:Blue" align="center">Stephen Kilby</h1>
 </head>
 <body>
+<center><b>Student Number:</b> s3655839<br><b>Email Address:</b> s3655839@rmit.edu.au</center><br>
 <img src="IMG_1792.JPG" alt="StephenKilby" width="500" height="333" class="center">
-<p><b>Student Number:</b> s3655839   |   <b>Email Address:</b> s3655839@rmit.edu.au</p>
 
 <h3>Background</h3>
 <ul>
