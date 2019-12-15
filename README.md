@@ -9,7 +9,7 @@
 
 <h3>Background</h3>
 <ul>
-	<li>Nationality: Australian</li>
+    	<li>Nationality: Australian</li>
 	<li>Language Spoken: English</li>
 </ul>
 <h3>Education</h3>
@@ -36,7 +36,7 @@
 <p>To be successful in the role, requires experience in supply chain planning, particularly in Materials Management, with knowledge of master scheduling, capacity planning and supply chain management principles. Experience is also required in importation, including detailed knowledge of international freight documentation and knowledge of international trade. The nature of the work requires strong personal computing skills, with experience in Microsoft Office applications. As the role is a key liaison point with people from other key business functions, the ability to communicate, build rapport and work with others to achieve business priorities is an essential skill.</p>
 <p>Considering my knowledge, skills and experience, compared to those required for the position, I currently have most of the skills and attributes required for the role. I have worked in customer services at BlueScope, which required operations planning, sales operations, which included sales forecasting, and currently work in supply chain, where I develop customised service offers which are offered to the market. I also have strong personal computing skills, particularly in Microsoft Excel, developed through experience in sales forecasting. In an earlier sales forecast role, I was also involved in and developed sound knowledge of demand planning. To be able to competently carry out the supply planning role, I would need to gain more experience in supply chain planning and knowledge of master scheduling. However, my other roles have been complimentary to these, so development of these experience and knowledge is more progressive than developing from first principles.</p>
 <p>The plan to make myself a realistic candidate for than supply planning role largely has two parts. The first is to complete the degree I am currently studying, this will increase my knowledge of the theories, concepts and principles of supply chain management. The second is to seek opportunities to develop the supply planning experience and knowledge of master scheduling that I need, to be considered a suitable candidate for this role. Obtaining these skills and knowledge is possible within BlueScope. At BlueScope we have career development processes and discussions which provide the opportunity to discuss, with your manager, your career goals and to develop plans to gain the skills required for those roles. I would use this process to develop these skills, with a knowledge that my manager would be supportive.</p>
-Details of the Supply Planner position can be found at <a href="https://www.seek.com.au/job/40469943?searchrequesttoken=ecbe7b25-f5df-4ab4-b68d-6622d5fad2b8&type=standout">‘seek.com.au’</a> or via the <a href ="Supply Planner Job in Melbourne - SEEK.pdf">pdf file</a> provided.</p>
+<p>Details of the Supply Planner position can be found at <a href="https://www.seek.com.au/job/40469943?searchrequesttoken=ecbe7b25-f5df-4ab4-b68d-6622d5fad2b8&type=standout">‘seek.com.au’</a> or via the <a href ="Supply Planner Job in Melbourne - SEEK.pdf">pdf file</a> provided.</p>
 
 <h2>Personal Profile</h2>
 
@@ -47,8 +47,12 @@ Details of the Supply Planner position can be found at <a href="https://www.seek
 <p>For myself, the test results largely confirm my view of myself. I see myself as conscientiousness, analytical and a person who works towards making sure information is accurate. I also prefer to base decisions on facts and data and tend to be one of the quieter people within a work group. I have in the past taken on leadership roles, including President of the local cricket club, but my preference is to be involved in detail work and support rather than lead. The outcomes of the test would seem to support this view.</p>
 <p>In a team I tend to sit back and listen to and evaluate the ideas, information and the discussion, unless it is a matter of fact or a question of process. With facts or process, where I know what is correct, I can assert my knowledge and lead discussion or work. The test results make me conscious that to be able to fully contribute to the team, I need to be more forward in expressing my ideas and knowledge. In a team, I would also need to think more broadly in order to develop ideas beyond the logical or conventional.</p>
 <p>If I was a leader forming a team, I would need to select people with different profiles to myself in order to generate energy within discussions and idea generation, particularly including people who are more conceptual and think more broadly than myself. People would obviously bring different technical skills as well. This would also help in getting work completed, as while I have preference towards detail and process, others will be more conceptual, complementing my attributes. The idea of building a team is to have people with different strengths who can add to the performance of the team overall.</p>
-<p>Summary of the available results for each of these tests is included below.</p>
-
+<p>The summaries of the test results for each of these tests are included below.
+<ul>
+	<li><a href="https://www.truity.com/personality-type/ISTJ">Myers-Briggs Type Indicator (MBTI) Test</a></li>
+	<li><a href="Mumford and Honey Learning Style.pdf">Mumford and Honey Learning Style Questionnaire</a></li>
+	<li><a href="Big 5 Personality Test.pdf">Big Five Personality Test</a></li>
+</ul></p>
 <h2>Project Idea</h2>
 
 <h3>Customer Forecasting Portal</h3>
