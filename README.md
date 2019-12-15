@@ -4,7 +4,7 @@
 <h1 align="center">Stephen Kilby</h1>
 </head>
 <body>
-<center><img src="IMG_1792.JPG" alt="StephenKilby" width="500" height="333"></center>
+<img src="IMG_1792.JPG" alt="StephenKilby" width="500" height="333">
 <p><b>Student Number:</b> s3655839   |   <b>Email Address:</b> s3655839@rmit.edu.au</p>
 
 <h3>Background</h3>
@@ -22,13 +22,13 @@
 <h3>Interests</h3>
 <p>I have a keen interest, bordering on obsession, in sport, having played both soccer and cricket. I watch as much sport as possible on the television. I have travelled to the United States of America on numerous occasions, holidaying at times that coincide with my favourite sports over there, including American Football, Ice Hockey and Basketball. I am someone who takes a keen interest in sports facts and history, so people usually do not argue with me about sports trivia and facts.</p>
 
-<h2>Interest in Information Technology</h3>
+<h2 align="center">Interest in Information Technology</h3>
 
 <p>My interest in Information Technology (IT) to date, has mainly been as a user of systems, software and social media. I started to become interested in IT when I was in high school and was selected into a pilot program, where all classes were conducted using computers and other technology. Since I started working at BlueScope in 2010, most of my work has involved the use of computers and business mainframe programs. Due to my work at BlueScope, I have developed advanced Microsoft Excel skills and am recognised as a key user and advisor for a number of business reporting programs, including Salesforce and Cognos.</p>
 <p>There are two main reasons why I chose to study at RMIT to complete my Bachelor of Business (Supply Chain Management). First, RMIT offered the degree as a part of an Open Universities correspondence course. This was important to me as I am a full-time employee and this allowed flexibility to deal with work, study and other interests. The second reason is that I had very good feedback about the course from work colleagues in the Supply Chain Department at BlueScope, with many of them graduates of this degree at RMIT.</p>
 <p>My major is in Supply Chain Management, which is my area of interest for future employment. The studies I have undertaken to date have greatly assisted me understand the theory and concepts of supply chain management and other business functions including finance and procurement. From an IT perspective, I expect to gain knowledge about how systems work and how they can be used to assist me with my work.</p>
 
-<h2>Ideal Job</h2>
+<h2 align="center">Ideal Job</h2>
 
 <h3>Supply Planner</h3>
 
@@ -38,7 +38,7 @@
 <p>The plan to make myself a realistic candidate for than supply planning role largely has two parts. The first is to complete the degree I am currently studying, this will increase my knowledge of the theories, concepts and principles of supply chain management. The second is to seek opportunities to develop the supply planning experience and knowledge of master scheduling that I need, to be considered a suitable candidate for this role. Obtaining these skills and knowledge is possible within BlueScope. At BlueScope we have career development processes and discussions which provide the opportunity to discuss, with your manager, your career goals and to develop plans to gain the skills required for those roles. I would use this process to develop these skills, with a knowledge that my manager would be supportive.</p>
 <p>Details of the Supply Planner position can be found at <a href="https://www.seek.com.au/job/40469943?searchrequesttoken=ecbe7b25-f5df-4ab4-b68d-6622d5fad2b8&type=standout">‘seek.com.au’</a> or via the <a href ="Supply Planner Job in Melbourne - SEEK.pdf">pdf file</a> provided.</p>
 
-<h2>Personal Profile</h2>
+<h2 align="center">Personal Profile</h2>
 
 <p>I have completed three personality or learning style tests. They are the Myers-Briggs Type Indicator (MBTI) Test, Mumford and Honey Learning Style Questionnaire, and Big Five Personality Test.</p>
 <p>The MBTI showed that I am an ISTJ personality type. “ISTJ indicates a person who is energized by time spent alone (Introverted), who focuses on facts and details rather than ideas and concepts (Sensing), who makes decisions based on logic and reason (Thinking) and who prefers to be planned and organized rather than spontaneous and flexible (Judging). ISTJs are sometimes referred to as Inspector personalities because of their focus on details and interest in doing things correctly” (Truity 2019, para. 3). The MBTI indicates a preferred style. So while it indicates how a person prefers to act or work, it does not mean that they are unable to behave differently in different circumstances.</p>
@@ -53,7 +53,7 @@
 	<li><a href="Mumford and Honey Learning Style.pdf">Mumford and Honey Learning Style Questionnaire</a></li>
 	<li><a href="Big 5 Personality Test.pdf">Big Five Personality Test</a></li>
 </ul>
-<h2>Project Idea</h2>
+<h2 align="center">Project Idea</h2>
 
 <h3>Customer Forecasting Portal</h3>
 
@@ -93,7 +93,7 @@
 
 <p>If this project is successful, the expected outcome is a reduction in forecast error rates. This will benefit both the supplier and the customer. The benefits to the supplier include a more accurate forecast demand, better management of inventory and a reduction in inventory costs, more accurate procurement of raw materials, and better production planning. For the customer, the benefit will be greater confidence in the ability of the supplier to provide the product that they order at the time required. This may also assist the customers with their own production and demand planning, having spent time in developing the forecast their supplier.</p>
 
-<h2>References</h2>
+<h2 align="center">References</h2>
 
 Mint Human Resources 2019, <i>Mumford and Honey LSQ</i>, Mint Human Resources, viewed 8 December 2019,<br><<a href="https://www.mint-hr.com/results.html">https://www.mint-hr.com/results.html</a>>.<br>
 <br>
