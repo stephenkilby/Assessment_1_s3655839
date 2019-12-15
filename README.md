@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<center><b><font size="+4">Stephen Kilby</font></b></center>
+<h1>Stephen Kilby</h1>
 </head>
 <body>
-<center>Student Number: s3655839   |   Email Address: s3655839@rmit.edu.au</center>
+<p><b>Student Number:</b> s3655839   |   <b>Email Address:</b> s3655839@rmit.edu.au</p>
 
-<p>Background<br>
+<p><b>Background</b><br>
     • Nationality: Australian<br>
 	• Language Spoken: English</p>
 
-<p>Education
-	• Higher School Certificate (2002)
-	• Hospitality – Certificate III (2005)
-	• Accounting – Certificate IV (2007)
+<p><b>Education</b><br>
+	• Higher School Certificate (2002)<br>
+	• Hospitality – Certificate III (2005)<br>
+	• Accounting – Certificate IV (2007)<br>
 	• Bachelor of Business (Supply Chain Management) – Currently Studying</p>
 
 <h3>Interests</h3>
