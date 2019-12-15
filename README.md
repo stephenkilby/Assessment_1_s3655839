@@ -8,9 +8,10 @@
 <p><b>Student Number:</b> s3655839   |   <b>Email Address:</b> s3655839@rmit.edu.au</p>
 
 <h3>Background</h3>
-    • Nationality: Australian<br>
-	• Language Spoken: English</p>
-
+<ul>
+    <li>Nationality: Australian</li>>
+    <li>Language Spoken: English</li>
+</ul>
 <h3>Education</h3>
 	• Higher School Certificate (2002)<br>
 	• Hospitality – Certificate III (2005)<br>
