@@ -4,7 +4,7 @@
 <h1>Stephen Kilby</h1>
 </head>
 <body>
-<p><b>Student Number:</b> s3655839   |   <b>Email Address:</b> s3655839@rmit.edu.au</p>
+<center><b>Student Number:</b> s3655839   |   <b>Email Address:</b> s3655839@rmit.edu.au</center>
 
 <p><b>Background</b><br>
     • Nationality: Australian<br>
