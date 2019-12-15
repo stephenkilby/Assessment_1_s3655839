@@ -9,15 +9,16 @@
 
 <h3>Background</h3>
 <ul>
-    <li>Nationality: Australian</li>>
-    <li>Language Spoken: English</li>
+	<li>Nationality: Australian</li>
+	<li>Language Spoken: English</li>
 </ul>
 <h3>Education</h3>
-	• Higher School Certificate (2002)<br>
-	• Hospitality – Certificate III (2005)<br>
-	• Accounting – Certificate IV (2007)<br>
-	• Bachelor of Business (Supply Chain Management) – Currently Studying</p>
-
+<ul>
+	<li>Higher School Certificate (2002)</li>
+	<li>Hospitality – Certificate III (2005)</li>
+	<li>Accounting – Certificate IV (2007)</li>
+	<li>Bachelor of Business (Supply Chain Management) – Currently Studying</li>
+</ul>
 <h3>Interests</h3>
 <p>I have a keen interest, bordering on obsession, in sport, having played both soccer and cricket. I watch as much sport as possible on the television. I have travelled to the United States of America on numerous occasions, holidaying at times that coincide with my favourite sports over there, including American Football, Ice Hockey and Basketball. I am someone who takes a keen interest in sports facts and history, so people usually do not argue with me about sports trivia and facts.</p>
 
