@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<center><b>Stephen Kilby</b></center>
+	<center><b><font size="+4">Stephen Kilby</font></b></center>
 </head>
 <body>
 <center>Student Number: s3655839   |   Email Address: s3655839@rmit.edu.au</center>
