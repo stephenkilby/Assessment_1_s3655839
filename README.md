@@ -4,11 +4,7 @@
 <h1>Stephen Kilby</h1>
 </head>
 <body>
-<picture>
-  <source media="(min-width: 650px)" srcset="IMG_1792.jpg">
-  <source media="(min-width: 465px)" srcset="IMG_1792.jpg">
-  <img src="IMG_1792.jpg" alt="Stephen" style="width:auto;">
-</picture>
+<img src="IMG_1792.jpg" alt="Stephen" style="width:auto;">
 <p><b>Student Number:</b> s3655839   |   <b>Email Address:</b> s3655839@rmit.edu.au</p>
 
 <h3>Background</h3>
