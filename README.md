@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<center><h1>Stephen Kilby</h1></center>
+<center><b>Stephen Kilby</b></center>
 </head>
 <body>
 
