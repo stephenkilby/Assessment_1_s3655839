@@ -5,12 +5,12 @@ Stephen Kilby
 </head>
 <body>
 
-<p>Name: Stephen Kilby</p>
-<p>Student Number: s3655839</p>
-<p>Email Address: s3655839@rmit.edu.au</p>
+<p>Name: Stephen Kilby
+Student Number: s3655839
+Email Address: s3655839@rmit.edu.au</p>
 
 <p>Background
-    • Nationality: Australian
+   	• Nationality: Australian
 	• Language Spoken: English</p>
 
 <p>Education
