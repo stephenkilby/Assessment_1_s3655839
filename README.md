@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1>Stephen Kilby</h1>
+<h1 align="center">Stephen Kilby</h1>
 </head>
 <body>
-<img src="IMG_1792.JPG" alt="StephenKilby" width="500" height="333">
+<img src="IMG_1792.JPG" alt="StephenKilby" align="center" width="500" height="333">
 <p><b>Student Number:</b> s3655839   |   <b>Email Address:</b> s3655839@rmit.edu.au</p>
 
 <h3>Background</h3>
