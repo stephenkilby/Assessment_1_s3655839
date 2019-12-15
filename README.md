@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1 style="font-family:tahoma;" align="center">Stephen Kilby</h1>
+<h1 stle="color:Blue" align="center">Stephen Kilby</h1>
 </head>
 <body>
 <img src="IMG_1792.JPG" alt="StephenKilby" width="500" height="333">
