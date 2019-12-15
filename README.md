@@ -86,13 +86,13 @@
 
 <h2>References</h2>
 
-Mint Human Resources 2019, Mumford and Honey LSQ, Mint Human Resources, viewed 8 December 2019, <https://www.mint-hr.com/results.html>.<br>
+Mint Human Resources 2019, <i>Mumford and Honey LSQ</i>, Mint Human Resources, viewed 8 December 2019, <https://www.mint-hr.com/results.html>.<br>
 <br>
-Open Source Psychometrics Project 2019, Big Five Personality Test Results, Open Source Psychometrics Project, viewed 8 December 2019,< https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=2.5,3.3,3.4,4,3.1#_V>.<br>
+Open Source Psychometrics Project 2019, <i>Big Five Personality Test Results</i>, Open Source Psychometrics Project, viewed 8 December 2019,< https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=2.5,3.3,3.4,4,3.1#_V>.<br>
 <br>
-Syntetos, A & Boylan, J 2010, ‘On the variance of intermittent demand estimates’, International Journal of Production Economics, vol. 128(2), pp. 546-555.<br>
+Syntetos, A & Boylan, J 2010, ‘On the variance of intermittent demand estimates’, <i>International Journal of Production Economics</i>, vol. 128(2), pp. 546-555.<br>
 <br>
-Truity 2019, ISTJ – The Inspector, Truity, viewed 7 December 2019, <https://www.truity.com/personality-type/ISTJ>.<br>
+Truity 2019, <i>ISTJ – The Inspector</i>, Truity, viewed 7 December 2019, <https://www.truity.com/personality-type/ISTJ>.<br>
 <br>
-Willemain, T, Smart, C, Shockor, J & Desautels, A 1994, ‘Forecasting intermittent demand in manufacturing: a comparative evaluation of Croston's method’, International Journal of Forecasting, vol. 10(4), pp. 529-538.
+Willemain, T, Smart, C, Shockor, J & Desautels, A 1994, ‘Forecasting intermittent demand in manufacturing: a comparative evaluation of Croston's method’, <i>International Journal of Forecasting</i>, vol. 10(4), pp. 529-538.
 </body>
