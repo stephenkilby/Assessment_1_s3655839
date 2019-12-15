@@ -9,8 +9,8 @@
 
 <h3 style="font-family:impact;">Background</h3>
 <ul>
-    <li>Nationality: Australian</li>
-	<li>Language Spoken: English</li>
+    	<li style="font-family:tahoma;">Nationality: Australian</li>
+	<li style="font-family:tahoma;">Language Spoken: English</li>
 </ul>
 <h3 style="font-family:impact;">Education</h3>
 <ul>
